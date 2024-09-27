@@ -9,7 +9,9 @@ SXNet is a stripped-down, C++-optimized version of Apache MXNet, designed for de
 
 ### Original Source
 
-SXNet is derived from Apache MXNet ([https://github.com/apache/mxnet]). Please refer to the original README ([https://github.com/apache/mxnet/blob/master/README.md]) for comprehensive information on MXNet.
+SXNet is derived from Apache MXNet ([Apache MXNet](https://github.com/apache/mxnet)). 
+Please refer to the [original README](https://github.com/apache/mxnet/blob/master/README.md) 
+for comprehensive information on MXNet.
 
 
 ### Purpose
@@ -37,10 +39,9 @@ SXNet serves as a learning tool and a proof-of-concept for C++-based neural netw
 
 ### Contributing
 
-Contributions, issues, and feedback are welcome! Please report any issues or suggestions to [<url>].
+Contributions, issues, and feedback are welcome! Please report any issues or suggestions to [SXNet Issue Tracker](<url>).
 
 
 ### Acknowledgments
 
 SXNet is built upon the excellent work of the Apache MXNet community.
-
