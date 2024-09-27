@@ -4,7 +4,7 @@
 
 ## A Lightweight C++-Focused Fork of Apache MXNet for Low-Resource Systems
 
-SXNet is a stripped-down, C++-optimized version of Apache MXNet, designed for deployment on low-specification systems. This project aims to provide a simplified, easy-to-use framework for C++-based deep learning tasks.
+SXNet is a stripped-down, C++ configuration of Apache MXNet, designed for deployment on low-specification Linux based systems. This project aims to provide a simplified, easy-to-use framework for C++-based deep learning tasks.
 
 
 ### Original Source
