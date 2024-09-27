@@ -37,11 +37,6 @@ SXNet serves as a learning tool and a proof-of-concept for C++-based neural netw
 [Apache License 2.0]
 
 
-### Contributing
-
-Contributions, issues, and feedback are welcome! Please report any issues or suggestions to [SXNet Issue Tracker](<url>).
-
-
 ### Acknowledgments
 
 SXNet is built upon the excellent work of the Apache MXNet community.
